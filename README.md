@@ -1,0 +1,1 @@
+This repository contains my personal study notes on various topics. It serves as a record of my learning journey and helps me organize key concepts and insights. Feel free to explore and provide feedback.
